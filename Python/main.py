@@ -4,6 +4,15 @@ import sys
 
 import time
 import serial
+import winsound
+
+def sonido():
+    # Reproducir el sonido de un beep
+    duration = 1000  # Duración en milisegundos
+    frequency = 2000  # Frecuencia en Hz
+    for i in range(4):
+        winsound.Beep(frequency, duration)
+        time.sleep(0.5)
 
 # Valores para cofigurar el tamaño de la imagen a grabar.
 ANCHO = 60
@@ -149,6 +158,7 @@ while True:
             print(ser.readline().decode("ascii"))
             if 'Tosta2' in ser.readline().decode("ascii"):
                 print('Drawing done!')
+                sonido()
                 break 
     elif entradaTeclado == "movex":
         while True:
