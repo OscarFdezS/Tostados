@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=2_MS21 Pin=P13-6
+Added Pin To Net: NetName=2_MS21 Pin=U22-9
+Added Net: Name=2_MS21
+Added Pin To Net: NetName=4_MS23 Pin=P13-4
+Added Pin To Net: NetName=4_MS23 Pin=U22-11
+Added Net: Name=4_MS23
+Added Pin To Net: NetName=5_MS11 Pin=P13-3
+Added Pin To Net: NetName=5_MS11 Pin=U21-9
+Added Net: Name=5_MS11
+Added Pin To Net: NetName=8_MS13 Pin=P12-10
+Added Pin To Net: NetName=8_MS13 Pin=U21-11
+Added Net: Name=8_MS13

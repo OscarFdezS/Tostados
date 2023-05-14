@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=11_LASER Pin=P31-1
+Removed Pin From Net: NetName=10_FAN Pin=P31-2
+Change Component Footprint: Designator=P31 Old Footprint=HDR1X2 New Footprint=HDR1X4
+Change Component Comment : Designator=P31 Old Comment=Header 2 New Comment=Header 4
+Added Pin To Net: NetName=12V_PWR Pin=P31-1
+Added Pin To Net: NetName=GND Pin=P31-2
+Added Pin To Net: NetName=11_LASER Pin=P31-3
+Added Pin To Net: NetName=10_FAN Pin=P31-4
+Change Net Name : Old Net Name=2_MS21 New Net Name=4_MS21

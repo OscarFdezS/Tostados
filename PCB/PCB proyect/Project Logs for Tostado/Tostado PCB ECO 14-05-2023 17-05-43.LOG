@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=4_MS21 Pin=MD21-8
+Removed Pin From Net: NetName=4_MS23 Pin=MD21-10
+Change Component Footprint: Designator=U11 Old Footprint=TSR1-SINGLE_TRP New Footprint=TSR1-SINGLE_TRP
+Added Pin To Net: NetName=4_MS23 Pin=MD21-8
+Added Pin To Net: NetName=4_MS21 Pin=MD21-10
+Added Member To Class: ClassName=Arduino headers Member=Component P12 UART
+Added Member To Class: ClassName=STEPPERS Member=Component P21 Motor 1
+Added Member To Class: ClassName=STEPPERS Member=Component U22 A4988SETTR-T
