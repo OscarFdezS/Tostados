@@ -1,5 +1,11 @@
 # Tostados
-Trabajo realizado en la asignatura ELCO, de la ETSIT durante el curso 2022-23
+Trabajo realizado en la asignatura ELCO, de la ETSIT durante el curso 2022-23.
+Parcipantes:
+  - Irene García-Quismondo Villares
+  - Alejandro Guaita Jiménez
+  - Andrea Llorente Gómez
+  - Fernando Martos García
+  - Óscar Fernández Sebastián
 
 Este trabajo implementa el funcionamiento de un módulo de grabado para tostadas usando un láser. Este codigo controla mediante un ESP32,
 el movimiento de dos motores y el encendido y apagado de un láser. 
