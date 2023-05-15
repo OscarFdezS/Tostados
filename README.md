@@ -1,4 +1,10 @@
 # Tostados
+
+<div align="center">
+  <img src="https://github.com/OscarFdezS/Tostados/blob/main/LOGO.jpeg" alt="Logo">
+</div>
+
+
 Trabajo realizado en la asignatura ELCO, de la ETSIT durante el curso 2022-23.
 Parcipantes:
   - Irene García-Quismondo Villares
